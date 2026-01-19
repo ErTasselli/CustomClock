@@ -1,12 +1,16 @@
-# CustomClock
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><img src="images/icon.png" width="120" alt="App Icon"/></td>
+    <td style="padding-left: 20px; vertical-align: middle;"><h1>CustomClock</h1></td>
+  </tr>
+</table>
 
 A customizable macOS clock widget application. Design and personalize desktop clock widgets with custom backgrounds, colors, and styles.
 
-## Preview
+
+**Homepage**
 
 <img src="images/homepage.png" width="600" alt="CustomClock Homepage"/>
-
-**Widget**
 
 <img src="images/widget.png" width="600" alt="CustomClock Widget"/>
 
