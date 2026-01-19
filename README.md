@@ -1,7 +1,7 @@
-<table style="border: none; margin-bottom: 20px;">
-  <tr style="border: none;">
-    <td style="border: none;"><img src="images/icon.png" width="120" alt="App Icon"/></td>
-    <td style="border: none; vertical-align: middle; padding-left: 20px;"><h2 style="margin: 0; text-decoration: none;">CustomClock</h2></td>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><img src="images/icon.png" width="120" alt="App Icon"/></td>
+    <td style="padding-left: 20px; vertical-align: middle;">CustomClock</td>
   </tr>
 </table>
 
