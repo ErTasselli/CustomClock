@@ -4,15 +4,15 @@ A customizable macOS clock widget application. Design and personalize desktop cl
 
 ## Preview
 
-<img src="docs/images/icon.png" width="120" alt="App Icon"/>
+<img src="images/icon.png" width="120" alt="App Icon"/>
 
 **Homepage**
 
-<img src="docs/images/homepage.png" width="600" alt="CustomClock Homepage"/>
+<img src="images/homepage.png" width="600" alt="CustomClock Homepage"/>
 
 **Widget**
 
-<img src="docs/images/widget.png" width="600" alt="CustomClock Widget"/>
+<img src="images/widget.png" width="600" alt="CustomClock Widget"/>
 
 > Preview images are illustrative and sourced from https://it.pinterest.com/pin/2322237302437200/
 
